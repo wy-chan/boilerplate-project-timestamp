@@ -1,7 +1,10 @@
 
 # [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
 
-[![Run on Repl.it](https://repl.it/badge/github/wy-chan/boilerplate-project-timestamp)](https://repl.it/github/wy-chan/boilerplate-project-timestamp)
+## Solution:
+https://boilerplate-project-timestamp.wy-chan.repl.co
+
+
 
 - A request to /api/:date? with a valid date should return a JSON object with a unix key that is a Unix timestamp of the input date in milliseconds (as type Number)
   
